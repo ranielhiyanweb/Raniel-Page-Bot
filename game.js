@@ -7,7 +7,7 @@ var Snake = (function () {
 
   var tileCount = 10;
   var gridSize = 400/tileCount;
-
+tgt
   const INITIAL_PLAYER = { x: Math.floor(tileCount / 2), y: Math.floor(tileCount / 2) };
 
   var velocity = { x:0, y:0 };
